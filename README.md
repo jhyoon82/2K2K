@@ -6,6 +6,8 @@
 
 The dataset has been migrated to Huggingface!!
 
+We have fixed all the previous errors based on user comments from the renewed 2K2K. Thank you to everyone who provided feedback.
+
 https://huggingface.co/datasets/polygom-team/2K2K
 
 
